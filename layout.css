@@ -220,6 +220,12 @@ html {
     border-radius: 10px;
 }
 
+#ifat:hover {
+    .name {
+        display: inline-block;
+    }
+}
+
 #shell4 {
     grid-area: 4 / 1 / 5 / 2;
 }
