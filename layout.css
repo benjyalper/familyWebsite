@@ -198,6 +198,13 @@ html {
     border-radius: 10px;
 }
 
+#ifat {
+    grid-area: 1 / 2 / 3 / 3;
+    width: 200px;
+    height: 270px;
+    border-radius: 10px;
+}
+
 #shell4 {
     grid-area: 4 / 1 / 5 / 2;
 }
