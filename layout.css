@@ -30,12 +30,12 @@ html {
 
 
 
-.navOne {
+/* .navOne {
     /* width: 20%; */
 
-    /*1 is a ratio meaning that it is relative to the other items. here there are 3. its also shorthand for flex-grow: 1; flex-shrink: 1; and flex-basis: 0;*/
-    /* flex-basis: 500px; */
-}
+/*1 is a ratio meaning that it is relative to the other items. here there are 3. its also shorthand for flex-grow: 1; flex-shrink: 1; and flex-basis: 0;*/
+/* flex-basis: 500px; */
+/* } */
 
 .navTwo {
     /* width: 20%; */
