@@ -186,10 +186,9 @@ html {
 .shellImg:hover {
     opacity: 0.5;
     transition: ease-in 0.2s;
-    width: 110px;
-    height: 110px;
+    width: 105px;
+    height: 105px;
 }
-
 
 
 #shell1 {
@@ -205,6 +204,13 @@ html {
     width: 200px;
     height: 200px;
     border-radius: 10px;
+}
+
+#shell3:hover {
+    opacity: 0.5;
+    transition: ease-in 0.2s;
+    width: 205px;
+    height: 205px;
 }
 
 #ifat {
