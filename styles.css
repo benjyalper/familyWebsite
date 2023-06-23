@@ -28,7 +28,9 @@ html {
     padding: 5px;
 }
 
-
+a {
+    text-decoration: none;
+}
 
 /* .navOne {
     /* width: 20%; */
