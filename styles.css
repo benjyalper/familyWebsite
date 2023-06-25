@@ -91,7 +91,7 @@ html {
     height: 100vh;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 1200px) {
     .grid-container {
         /* display: grid;
         grid-template: 100%;
@@ -218,14 +218,37 @@ html {
     width: 200px;
     height: 270px;
     border-radius: 10px;
+    transition: 2s all;
 }
 
 #ifat:hover {
-    .name {
-        display: inline-block;
-    }
+    transform: scale(1.1);
 }
 
 #shell4 {
     grid-area: 4 / 1 / 5 / 2;
+}
+
+#yahav {
+    transition: 2s all;
+}
+
+#yahav:hover {
+    transform: translateX(25px)
+}
+
+#adar {
+    transition: 2s all;
+}
+
+#adar:hover {
+    transform: skewx(5deg)
+}
+
+#logo {
+    transition: 2s all;
+}
+
+#logo:hover {
+    transform: rotate(330deg);
 }
