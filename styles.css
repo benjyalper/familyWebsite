@@ -30,10 +30,34 @@ html {
 
 #staticNav {
     position: fixed;
-    background-color: rgb(25, 167, 206, 0.5);
+    background-color: rgb(25, 167, 206, 0);
+    left: 0.5rem;
+    right: 0.5rem;
 }
 
+#messageBox {
+    border: 2px solid #146C94;
+    border-right: 0px;
+    border-radius: 15px 0px 0px;
+    background-color: #B0DAFF;
+    height: 2rem;
+    margin-right: 0px;
+    padding-left: 10px;
+    flex: 1;
+    color: #146C94;
+    font-weight: bold;
+}
 
+#submitMessage {
+    border: 2px solid #146C94;
+    border-left: 0px;
+    border-radius: 0px 0px 15px;
+    color: #146C94;
+    font-weight: bold;
+    background-color: #FEFF86;
+    height: 2.3rem;
+    margin-left: 0px;
+}
 
 /* .navOne {
     /* width: 20%; */
@@ -44,7 +68,7 @@ html {
 
 .navTwo {
     /* width: 20%; */
-    flex: 5;
+    flex: 3;
     /* flex-basis: 400px; */
     /*flex-basis: 400px overides flex: 1*/
     /*this is twice the size of items with flex: 1;*/
