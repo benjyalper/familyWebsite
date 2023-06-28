@@ -95,6 +95,8 @@ html {
     #staticNav {
         flex-basis: 100%;
         height: 10vh;
+        left: 0;
+        right: 0;
     }
 
 
