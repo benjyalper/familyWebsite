@@ -40,7 +40,7 @@ html {
     border-right: 0px;
     border-radius: 15px 0px 0px;
     background-color: #B0DAFF;
-    height: 2rem;
+    height: 5vh;
     margin-right: 0px;
     padding-left: 10px;
     flex: 1;
@@ -55,9 +55,8 @@ html {
     color: #146C94;
     font-weight: bold;
     background-color: #FEFF86;
-    height: 2.3rem;
+    height: 5vh;
     margin-left: 0px;
-    padding-bottom: 10px;
 }
 
 /* .navOne {
