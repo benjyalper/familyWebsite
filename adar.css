@@ -1,0 +1,9 @@
+body {
+    background-color: aquamarine;
+}
+
+.messages {
+    height: 80px;
+    max-width: 300px;
+    background-color: aqua;
+}
