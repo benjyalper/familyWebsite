@@ -164,6 +164,11 @@ html {
     }
 }
 
+.cover {
+    height: 20vh;
+    
+}
+
 /*main grid section*/
 
 .grid-container {
